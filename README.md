@@ -11,7 +11,8 @@
 
 🎓 ESTUDIANTE DE INGENIERA EN TECNOLOGÍAS DE LA INFORMACIÓN
 
-💻 Experiencia en HTML5, CSS; lenguajes de programación como Java y JavaScript.
+💻 Experiencia en ML, DL; lenguajes de programación Java y Python.
+   Administración de base de datos relacionales (oracle, mysql, postgres) y no relacionales (mongodb)
 
 📫 Contacto: **panterichard44@gmail.com**  
 ___
